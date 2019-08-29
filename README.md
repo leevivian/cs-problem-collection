@@ -1,8 +1,8 @@
 # cs-problem-collection
 
-This is my ongoing collection of notes for problem solving exercises, written using a notetaking app on the iPad, Notability.
+This is an ongoing collection of my notes for problem solving exercises, handwritten using a notetaking app on the iPad, Notability.
 
-Although my solutions are not perfect, I've found that thoroughly documenting my thought process, especially through writing rather than typing, has helped to refine my method of tackling problems. The point of these is not to get to a solution as fast as possible, but to take my time and allow myself to struggle through puzzles I haven't had more exposure to. In doing so, I solidify my computer science fundamentals - data structures, algorithms, and discrete math.
+My solutions are far from perfect, but through this project, I've found that thoroughly documenting my thought process has helped to refine my method of tackling problems. Especially since I'm writing these rather than typing! The point of these is not to get to a solution as fast as possible, but to take my time and allow myself to struggle through puzzles I haven't had more exposure to. In doing so, I solidify my computer science fundamentals - data structures, algorithms, and discrete math.
 
 I try to document the following elements:
 1. Diagrams of input / expected output - having a visual of the problem to start off with is super helpful
